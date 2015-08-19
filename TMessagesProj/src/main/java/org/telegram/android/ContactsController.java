@@ -6,7 +6,7 @@
  * Copyright Nikolai Kudashov, 2013.
  */
 
-package org.telegram.android;
+package org.telegram.android2;
 
 import android.accounts.Account;
 import android.accounts.AccountManager;
